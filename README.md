@@ -1,1 +1,1 @@
-its not empty now
+Task 0. Where am I?
